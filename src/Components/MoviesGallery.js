@@ -6,6 +6,7 @@ export const MoviesGallery=[
         name: "Star Wars: The Rise Of Skywalker",
         date: "2019",
         description:"The surviving members of the resistance face the First Order once again",
+        trailer:"https://www.youtube.com/embed/8Qn_spdM5Zg" 
     },
     {
         id:2,
@@ -13,7 +14,8 @@ export const MoviesGallery=[
         rating:4,
         name:"Inception",
         date:"2010",
-        description:"Science fiction action film written and directed by Christopher Nolan"
+        description:"Science fiction action film written and directed by Christopher Nolan",
+        trailer:"https://www.youtube.com/embed/YoHD9XEInc0" 
     },
     {
         id:3,
@@ -21,7 +23,8 @@ export const MoviesGallery=[
         rating:3,
         name:"The Dark Knight",
         date:"2008",
-        description:"The Dark Knight is a 2008 superhero film directed, produced, and co-written by Christopher Nolan."
+        description:"The Dark Knight is a 2008 superhero film directed, produced, and co-written by Christopher Nolan.",
+        trailer:"https://www.youtube.com/embed/EXeTwQWrcwY"
     },
     
 ]

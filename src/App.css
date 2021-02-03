@@ -4,3 +4,22 @@
   margin-top: 80px;
   margin-left: 60px;
 }
+
+.infoPage{
+  text-align: center;
+}
+
+.poster{
+  border-radius: 10px;
+}
+
+.teaser{
+  position: relative;
+  left: 50px;
+}
+
+.back{
+  position: absolute;
+  left:10%;
+  top:10px;
+}
